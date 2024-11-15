@@ -77,7 +77,7 @@ Make the **link underlines** and **normal underlines** skip the **"hooky"** lett
   }
   ```
   In the case an images **doesn't load**, setting and alternative text that explains the image and that is **italic** tells the user.
-- ### Backroung images
+- ### Backround images
   ```css
   img, picture, svg, video, canvas{
     background-repeat: no-repeat; 
